@@ -49,6 +49,7 @@
   },
   "homepage": "https://github.com/EvolutionAPI/evolution-api#readme",
   "dependencies": {
+    "whatsapp-web.js": "^1.23.0"
     "@adiwajshing/keyed-db": "^0.2.4",
     "@aws-sdk/client-sqs": "^3.723.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
